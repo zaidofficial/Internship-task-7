@@ -27,20 +27,3 @@ This repository contains the code for a simple, responsive blog page. It demonst
 * `script.js`: Contains the JavaScript code for the "Back to top" functionality.
 * `laptop.jpg`: The image used in the blog post.
 
-## Setup and Usage
-
-To view this project locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    ```
-    (Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual GitHub username and repository name.)
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd YOUR_REPOSITORY_NAME
-    ```
-
-3.  **Open `index.html`:**
-    Simply open the `index.html` file in your preferred web browser.
